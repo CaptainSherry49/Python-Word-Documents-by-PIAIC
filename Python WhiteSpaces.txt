@@ -1,0 +1,12 @@
+WhiteSpaces
+               Whitespace is meaningful in Python Especially indentation and placement of newlines
+
+Use a newline to end  a line of code
+  Use \ When must go to next line permaturaly
+
+No braces {} to mark blocks of code , use consitsntent indentation instead
+  *first line with less indentation is outside of the block 
+  *First line with more indentation start a nested block
+
+Colors start of a new block in many constructs, e.g . function definition, then clauses.
+

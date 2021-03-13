@@ -1,0 +1,10 @@
+Types Of AI ( Artificial Intelligence ) :
+
+1) ANI ( Artificial Narrow Intelligence)
+2) AGI ( Artificial General Intelligence )
+
+Types of Mashine  Learning :
+
+1) Supervised Learning.
+2) UnSupervised Learning.
+3) Reinforcement Learning.

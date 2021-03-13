@@ -1,0 +1,14 @@
+Basic Datatypes 
+           Many Datatypes to choose From in Python!
+
+* Integeres ( Default for numbers)
+         z = 5/2   # Answer 2, integer division
+
+* Floats 
+           x = 3.456
+* Strings 
+           Can use ""or"  to specify with "abc" == 'abc'
+     Unmatched can occur whitin the string "matt's"
+     Use triple double-quotes for multi-line strings or strings than contain both'
+& "inside of them:
+"""a'b"c"""

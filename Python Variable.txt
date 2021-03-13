@@ -1,0 +1,15 @@
+Variables 
+        variable is a named piece of memory that can store a value!
+
+* Usage 
+     - Compute an expression's result,
+     - Store that result into a variable,
+     - & use that variable later in the program.
+Assignment Statement: Stores a value into a variable.
+* Syntax: 
+       name = value 
+* Example: x = 5
+                   gpa = 3.14
+
+* A variable that has been given a value can be used in expressions.
+       x + 4 is 9 
